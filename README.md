@@ -1,0 +1,1 @@
+# Kafka LDAP Authentication and Authorization
