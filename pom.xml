@@ -12,7 +12,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jdk.version>1.8</jdk.version>
-        <kafka.version>2.5.0</kafka.version>
+        <kafka.version>2.6.3</kafka.version>
         <slf4j-log4j12.version>1.7.30</slf4j-log4j12.version>
     </properties>
 
